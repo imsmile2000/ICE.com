@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2019112097이윤표</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_my_item">상품 목록</string>
+    <string name="title_activity_ramen_detail">상품 정보</string>
+</resources>
